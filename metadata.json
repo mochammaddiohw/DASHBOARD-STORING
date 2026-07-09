@@ -1,0 +1,6 @@
+{
+  "name": "Storing Dashboard",
+  "description": "Interactive warehouse storing and performance monitoring dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
